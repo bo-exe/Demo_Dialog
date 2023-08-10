@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Demo Dialog</string>
     <string name="d1">DEMO 1 - SIMPLE DIALOG</string>
+    <string name="d2">DEMO 2 BUTTONS DIALOG</string>
 </resources>
